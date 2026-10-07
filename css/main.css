@@ -114,7 +114,7 @@
     margin-bottom: 40px;
   }
   .hero-img {
-    width: min(634px, 90vw);
+    width: 634px;
     height: auto;
   }
 }
@@ -243,7 +243,7 @@
     margin-bottom: 50px;
   }
   .prychyny-img {
-    width: min(634px, 90vw);
+    width: 500px;
     height: auto;
   }
   .persha-title,
@@ -262,19 +262,19 @@
     margin-bottom: 50px;
   }
   .persha-img {
-    width: min(500px, 90vw);
+    width: 700px;
     height: auto;
   }
   .druha-img {
-    width: min(300px, 80vw);
+    width: 400px;
     height: auto;
   }
   .tretya-img {
-    width: min(600px, 90vw);
+    width: 400px;
     height: auto;
   }
   .chetverta-img {
-    width: min(400px, 80vw);
+    width: 450px;
     height: auto;
     margin-bottom: 100px;
   }
